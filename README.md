@@ -1,21 +1,20 @@
-# Phylogenetic-Analysis-of-At5g66900-Resistance-Gene
-volutionary analysis of disease resistance protein At5g66900 across plant species
-## Methods
-Sequence Retrieval: NCBI BLASTp
-Multiple Sequence Alignment: Clustal Omega
-Phylogenetic Tree Construction: NGPhylogeny.fr
-Visualization: iTOL
+# Objective
+Analyze sequence data to explore relationships between samples using computational and data processing techniques.
 
-## Results
-The phylogenetic tree reveals evolutionary relationships between Vitis species and other plants
+# Dataset
+-Protein sequences retrieved from public databases
+-Multiple samples across different species
 
-## Files
-tree.png: Final phylogenetic tree
-sequences.fasta: Protein sequences used
-alignment.aln: Multiple sequence alignment
+# Workflow
+-Data collection and preprocessing of sequence data
+-Multiple sequence alignment
+-Phylogenetic tree construction
+-Visualization and interpretation of relationships
 
-## Tools Used
-- NCBI BLAST
-- Clustal Omega
-- NGPhylogeny.fr
-- iTOL
+# Key Results
+-Constructed phylogenetic tree representing relationships across samples
+-Identified clustering patterns between groups
+
+# Key Insights
+-Computational pipelines enable analysis of complex biological datasets
+-Visualization improves interpretation of hierarchical relationships
