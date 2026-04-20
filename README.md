@@ -1,5 +1,5 @@
 # Objective
-Analyze sequence data to explore relationships between samples using computational and data processing techniques.
+The objective of this project is to analyze sequence data to explore relationships between samples using computational and data processing techniques.
 
 # Dataset
 -Protein sequences retrieved from public databases
